@@ -1,0 +1,26 @@
+
+header {
+    background: url(../assets/cols.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+.navbar {
+    background-color: transparent !important;
+}
+
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #ffff;
+}
+
+.titulo-pagina {
+    display:flex;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+    color:#ffff;
+}
