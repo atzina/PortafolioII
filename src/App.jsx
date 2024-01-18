@@ -1,7 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import Nav from "./components/Nav";
-import './App.css'
+import './App.css';
+import Aboutme from './components/Aboutme';
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
   return (
     <>
       <Nav/>
+      <Aboutme/>
     </>
   )
 }

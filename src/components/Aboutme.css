@@ -1,0 +1,16 @@
+.aboutme{
+    display: flex;
+
+}
+
+.image-aboutme {
+    width: 100%;
+}
+
+.div-uno-aboutme {
+    width: 50%;
+}
+
+.div-dos-aboutme {
+    width: 50%;
+}
