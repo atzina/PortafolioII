@@ -1,5 +1,7 @@
 import "./Nav.css";
-import Icon from "../assets/logo.png"
+import Icon from "../assets/logo.png"; 
+import In from "../assets/in-icono.png";
+import Hubicon from "../assets/icon-github.jpg";
 
 function Nav() {
   return (
@@ -43,10 +45,16 @@ function Nav() {
             </div>
           </div>
         </nav>
-
-        <div className="titulo-pagina">
-          <h1>Soy Atzin, Front End Developer y Socióloga</h1>
+        <div className="contenido-header">
+          <div className="titulo-pagina">
+            <h1>Soy Atzin, Front End Developer y Socióloga</h1>
+          </div>
+          <div className="redes">
+            <img className="icon-nav" src={In}></img>
+            <img className="icon-nav" src={Hubicon}></img>
+          </div>
         </div>
+
       </header>
     </>
   );

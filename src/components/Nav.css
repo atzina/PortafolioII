@@ -24,8 +24,13 @@ header {
 
 .titulo-pagina {
     display:flex;
-    height: 700px;
+    height: 200px;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     color:#ffff;
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
 }
