@@ -1,4 +1,5 @@
 import "./Nav.css";
+import Icon from "../assets/logo.png"
 
 function Nav() {
   return (
@@ -7,7 +8,7 @@ function Nav() {
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
             <a class="navbar-brand" href="#">
-              Navbar
+              <img className="icon-nav" src={Icon}></img>
             </a>
             <button
               class="navbar-toggler"
