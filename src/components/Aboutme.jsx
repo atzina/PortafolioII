@@ -1,4 +1,5 @@
 import Compu from "../assets/compu.jpg";
+import Luz from "../assets/luz.jpg";
 import "./Aboutme.css";
 
 function Aboutme () {
@@ -7,10 +8,11 @@ function Aboutme () {
         <div className="aboutme">
             <div className="div-uno-aboutme">
                 <h1>Sobre mí</h1>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus facere perferendis minus doloribus, et recusandae id voluptate obcaecati ducimus iste nobis vel! Itaque, ex pariatur? Dolorum eum harum voluptates illum?</p>
+                <p>Busco hacer diferencias en el mundo a través de la tecnología. Me apasiona explorar cómo podemos utilizarla para construir conexiones significativas entre las personas y mejorar nuestras vidas.</p>
+                <p>Mi formación y experiencia en Sociología me han enseñado la importancia de escuchar las necesidades de los demás. Me enorgullece aplicar estas habilidades en mi trabajo en desarrollo web, colaborando con equipos para crear soluciones atractivas y funcionales para las personas.</p>
             </div>
             <div className="div-dos-aboutme">
-            <img className="image-aboutme" src={Compu}></img>
+            <img className="image-aboutme" src={Luz}></img>
 
             </div>
         </div>

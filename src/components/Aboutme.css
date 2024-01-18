@@ -1,6 +1,5 @@
 .aboutme{
     display: flex;
-
 }
 
 .image-aboutme {
@@ -9,6 +8,16 @@
 
 .div-uno-aboutme {
     width: 50%;
+    padding: 20px;
+    margin:20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div-uno-aboutme h1 {
+    margin-bottom: 60px;
+    margin-top: 20px;
 }
 
 .div-dos-aboutme {
