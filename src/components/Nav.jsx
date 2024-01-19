@@ -1,5 +1,5 @@
 import "./Nav.css";
-import Icon from "../assets/logo.png"; 
+import Icon from "../assets/logo.png";
 import In from "../assets/in-icono.png";
 import Hubicon from "../assets/icon-github.png";
 
@@ -40,7 +40,6 @@ function Nav() {
                     Contacto
                   </a>
                 </li>
-               
               </ul>
             </div>
           </div>
