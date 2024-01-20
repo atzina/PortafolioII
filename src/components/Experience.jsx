@@ -22,7 +22,7 @@ function Experience() {
                 </div>
                 <h5 className="card-title">Desarrollo Web</h5>
                 <p className="card-text">
-                Me gusta el aprendizaje constante y autodirigido, estoy siempre en busca de nuevas formas de superar desafíos y mejorar mi trabajo. Estoy practicando más sobre React y SQL y realizando proyectos independientes con WordPress.
+                Me considero un entusiasta del aprendizaje continuo y autodirigido. Busco constantemente nuevas formas de superar desafíos y perfeccionar mi trabajo. En la actualidad, aprendo más de React y SQL, y estoy inmersa en proyectos independientes utilizando WordPress. Mi proceso de desarrollo se basa en la exploración  y la mejora constante, siempre lista para abordar nuevos retos con un enfoque pragmático y constructivo.
                 </p>
               </div>
             </div>
@@ -44,7 +44,7 @@ function Experience() {
                 </div>
                 <h5 className="card-title">Sociología</h5>
                 <p className="card-text">
-                Mi experiencia en Sociología y Derechos Humanos, me ha formado a partir del pensamiento reflexivo y crítico de la realidad. A lo largo de mi carrera he desarrollado fuertes habilidades de comunicación, organización y planeación del trabajo. Exploro temas de Justicia Social y Tecnología. Me encanta la enseñanza.
+                Mi trayectoria en Sociología y Derechos Humanos ha sido moldeada por el pensamiento reflexivo y crítico frente a la realidad. A lo largo de mi carrera, he cultivado habilidades fuertes en comunicación, organización y planificación del trabajo. Mi enfoque de exploración se centra en temas que abarcan Justicia Social y Tecnología. Además, encuentro gran satisfacción en el arte de enseñar, donde puedo compartir mi perspectiva y fomentar el diálogo enriquecedor.
                 </p>
               </div>
             </div>
@@ -70,7 +70,7 @@ function Experience() {
                 </div>
                 <h5 className="card-title">Ciencia de Datos</h5>
                 <p className="card-text">
-                Exploro diferentes roles en el mundo de la tecnología, entre los muchos que existen la Ciencia de Datos me interesa por que creo que muchas de mis habilidades técnicas en sociología son familiares con los datos, la documentación y los trabajos de análisis. Espero tener pronto una oportunidad de explorar profesionalmente este campo.
+                En mi búsqueda por encontrar el rol perfecto en el vasto mundo de la tecnología, la Ciencia de Datos ha capturado mi interés. Creo que mis habilidades técnicas en Sociología se alinean naturalmente con la manipulación de datos, la documentación y el análisis laborioso. Anhelo la oportunidad de sumergirme profesionalmente en este fascinante campo y explorar las infinitas posibilidades que ofrece.
                 </p>
               </div>
             </div>
