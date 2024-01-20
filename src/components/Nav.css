@@ -10,6 +10,7 @@ header {
 }
 .navbar {
     background-color: transparent !important;
+    font-family: 'Metrophobic', sans-serif;
 }
 
 
@@ -24,10 +25,11 @@ header {
 
 .titulo-pagina {
     display:flex;
-    height: 200px;
+    height: 230px;
     justify-content: center;
     align-items: flex-end;
     color:#ffff;
+    font-family: 'Asap', sans-serif;
 }
 
 .redes {

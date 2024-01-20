@@ -18,6 +18,11 @@
 .div-uno-aboutme h1 {
     margin-bottom: 60px;
     margin-top: 20px;
+    font-family: 'Cambay';
+}
+
+.div-uno-aboutme p {
+    font-family: 'Metrophobic';
 }
 
 .div-dos-aboutme {

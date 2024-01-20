@@ -18,3 +18,11 @@
   flex-direction: column;
   align-items: center;
 }
+
+.card-title {
+  font-family: 'Cambay',sans-serif;
+}
+
+.card-text {
+  font-family: 'Metrophobic', sans-serif;
+}
