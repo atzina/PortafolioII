@@ -3,7 +3,7 @@
     min-height: 70vh;
     padding: 40px;
     padding-top: 150px;
-    padding-bottom: 150px;
+    padding-bottom: 130px;
 
 }
 
@@ -11,6 +11,10 @@
     display:flex;
     justify-content:center;
     margin: 20px;
+}
+
+.card {
+  margin-bottom: 40px;
 }
 
 .card-body {
@@ -25,4 +29,29 @@
 
 .card-text {
   font-family: 'Metrophobic', sans-serif;
+}
+
+.div-skills {
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  
+}
+
+.skill{
+  background-color: #bb5182;
+  color:#ffff;
+  border-radius: 50%;
+  width: 102px;
+  height: 102px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:10px;
+  font-family: 'Metrophobic', sans-serif;
+}
+
+.textgrande {
+  font-size: 12px;
+  padding: 13px;
 }

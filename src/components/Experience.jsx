@@ -22,11 +22,13 @@ function Experience() {
                 </div>
                 <h5 className="card-title">Desarrollo Web</h5>
                 <p className="card-text">
-                Me considero un entusiasta del aprendizaje continuo y autodirigido. Busco constantemente nuevas formas de superar desafíos y perfeccionar mi trabajo. En la actualidad, aprendo más de React y SQL, y estoy inmersa en proyectos independientes utilizando WordPress. Mi proceso de desarrollo se basa en la exploración  y la mejora constante, siempre lista para abordar nuevos retos con un enfoque pragmático y constructivo.
+                Me considero un entusiasta del aprendizaje continuo y autodirigido. Busco constantemente nuevas formas de superar desafíos y perfeccionar mi trabajo. En la actualidad, aprendo más de React y SQL, y estoy inmersa en proyectos independientes utilizando WordPress. Mi proceso de desarrollo se basa en la exploración, la experimentación  y la mejora constante, siempre lista para abordar nuevos retos con un enfoque pragmático y constructivo.
                 </p>
               </div>
             </div>
+            
           </div>
+          
           <div className="col-sm-4">
             <div className="card">
               <div className="card-body">
@@ -48,6 +50,7 @@ function Experience() {
                 </p>
               </div>
             </div>
+           
           </div>
 
           <div className="col-sm-4">
@@ -70,11 +73,39 @@ function Experience() {
                 </div>
                 <h5 className="card-title">Ciencia de Datos</h5>
                 <p className="card-text">
-                En mi búsqueda por encontrar el rol perfecto en el vasto mundo de la tecnología, la Ciencia de Datos ha capturado mi interés. Creo que mis habilidades técnicas en Sociología se alinean naturalmente con la manipulación de datos, la documentación y el análisis laborioso. Anhelo la oportunidad de sumergirme profesionalmente en este fascinante campo y explorar las infinitas posibilidades que ofrece.
+                En mi búsqueda por encontrar el rol perfecto en el vasto mundo de la tecnología, la Ciencia de Datos ha capturado mi interés. Creo que mis habilidades técnicas en Sociología se alinean naturalmente con la manipulación de datos, la documentación y el análisis laborioso. Busco la oportunidad de sumergirme profesionalmente en este fascinante campo y explorar las infinitas posibilidades que ofrece. Ahora estudio, hago proyectos y busco integrar mis habilidades multicampos.
                 </p>
               </div>
             </div>
+          
+            
           </div>
+        </div>
+        <div className="div-skills">
+          <div className="skill">HTML</div>
+          <div className="skill">CSS</div>
+          <div className="skill">JavaScript</div>
+          <div className="skill">React</div>
+          <div className="skill">SQL</div>
+          <div className="skill">Bootstrap</div>
+          <div className="skill">Figma</div>
+          <div className="skill">WordPress</div>
+          <div className="skill textgrande">Trabajo con Personas</div>
+
+         
+        </div>
+        <div className="div-skills">
+          <div className="skill">Python</div>
+          <div className="skill">Jupiter</div>
+          <div className="skill">Pandas</div>
+          <div className="skill">Nunpy</div>
+          <div className="skill">Power Bi</div>
+          <div className="skill">Investigación</div>
+          <div className="skill textgrande">Documentación</div>
+          <div className="skill textgrande">Pensamiento Crítico</div>
+          <div className="skill">Docencia</div>
+        
+       
         </div>
       </div>
     </>
