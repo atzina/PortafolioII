@@ -51,6 +51,10 @@
   font-family: 'Metrophobic', sans-serif;
 }
 
+.skill:hover {
+  background-color:orange;
+}
+
 .textgrande {
   font-size: 12px;
   padding: 13px;
