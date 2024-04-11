@@ -81,7 +81,7 @@ function Experience() {
             
           </div>
         </div>
-        <div className="div-skills">
+        <div className="div-skills container-fluid">
           <div className="skill">HTML</div>
           <div className="skill">CSS</div>
           <div className="skill">JavaScript</div>
@@ -94,7 +94,7 @@ function Experience() {
 
          
         </div>
-        <div className="div-skills">
+        <div className="div-skills container-fluid">
           <div className="skill">Python</div>
           <div className="skill">Jupiter</div>
           <div className="skill">Pandas</div>

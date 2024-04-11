@@ -49,7 +49,7 @@ function Nav() {
             </div>
           </div>
         </nav>
-        <div className="contenido-header">
+        <div className="contenido-header container-fluid">
           <div className="titulo-pagina">
             <h1>Soy Atzin, Front End Developer y Socióloga</h1>
           </div>

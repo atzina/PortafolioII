@@ -38,7 +38,7 @@ function Work() {
     <>
       <div className="work">
         <div className='title-work'><h1>Mi Trabajo</h1></div>
-        <div className='filter-buttons flex'>
+        <div className='filter-buttons container-fluid'>
           <button onClick={() => hadleCategoryChange('all')}>Mostrar Todo</button>
           <button onClick={() => hadleCategoryChange('wordpress')}>WordPress</button>
           <button onClick={()=> hadleCategoryChange('react')}>React</button>
