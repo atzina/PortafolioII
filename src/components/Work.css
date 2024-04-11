@@ -12,9 +12,21 @@
 .projects{
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 .compu{
     width: 100%;
     margin: 10px;
+}
+
+.mostrar {
+    display: flex;
+    justify-content: center;
+}
+
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    margin:20px;
 }
 
