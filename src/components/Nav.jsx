@@ -6,7 +6,7 @@ import Hubicon from "../assets/icon-github.png";
 function Nav() {
   return (
     <>
-      <header>
+      <header className="container-fluid">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
             <a class="navbar-brand" href="#">
@@ -49,7 +49,7 @@ function Nav() {
             </div>
           </div>
         </nav>
-        <div className="contenido-header container-fluid">
+        <div className="contenido-header">
           <div className="titulo-pagina">
             <h1>Soy Atzin, Front End Developer y Socióloga</h1>
           </div>

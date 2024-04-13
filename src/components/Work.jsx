@@ -19,7 +19,7 @@ function Work() {
     setCategory(newCategory);
   };
 
-  //array de objetos que contiene la inforamción de cada imagen y su categoría
+  //array de objetos que contiene la información de cada imagen y su categoría
 
   const projectsData = [
     {src:Cima, category: 'wordpress'},
@@ -39,11 +39,13 @@ function Work() {
       <div className="work">
         <div className='title-work'><h1>Mi Trabajo</h1></div>
         <div className='filter-buttons container-fluid'>
-          <button onClick={() => hadleCategoryChange('all')}>Mostrar Todo</button>
-          <button onClick={() => hadleCategoryChange('wordpress')}>WordPress</button>
-          <button onClick={()=> hadleCategoryChange('react')}>React</button>
-          <button onClick={()=> hadleCategoryChange('power')}>PowerBi</button>
-          <button onClick={()=> hadleCategoryChange('nodejs')}>NodeJs</button>
+         
+            <button onClick={() => hadleCategoryChange('all')}>Mostrar Todo</button>
+            <button onClick={() => hadleCategoryChange('wordpress')}>WordPress</button>
+            <button onClick={()=> hadleCategoryChange('react')}>React</button>
+            <button onClick={()=> hadleCategoryChange('power')}>PowerBi</button>
+            <button onClick={()=> hadleCategoryChange('nodejs')}>NodeJs</button>
+          
 
         </div>
         <div className="projects">
