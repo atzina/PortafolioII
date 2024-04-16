@@ -1,4 +1,13 @@
 
+* {
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     background: url(../assets/cols.jpg) no-repeat center;
     background-size: cover;
@@ -44,4 +53,19 @@ header {
 
 .container-fluid {
     width: 100%;
+}
+
+
+@media screen and (max-width: 1000px){
+     .icon-nav{
+        width: 20%;
+        margin-left: 30px;
+     } 
+     .navbar-brand {
+        width: 60%;
+     }  
+
+     .navbar {
+        width:90%;
+     }
 }

@@ -39,13 +39,13 @@ function Work() {
       <div className="work">
         <div className='title-work'><h1>Mi Trabajo</h1></div>
         <div className='filter-buttons container-fluid'>
-         
+          
             <button onClick={() => hadleCategoryChange('all')}>Mostrar Todo</button>
             <button onClick={() => hadleCategoryChange('wordpress')}>WordPress</button>
             <button onClick={()=> hadleCategoryChange('react')}>React</button>
             <button onClick={()=> hadleCategoryChange('power')}>PowerBi</button>
             <button onClick={()=> hadleCategoryChange('nodejs')}>NodeJs</button>
-          
+         
 
         </div>
         <div className="projects">
