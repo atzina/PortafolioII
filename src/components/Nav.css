@@ -1,8 +1,4 @@
 
-* {
-
-}
-
 body {
     margin: 0;
     padding: 0;
@@ -68,4 +64,25 @@ header {
      .navbar {
         width:90%;
      }
+
+     .titulo-pagina {
+        text-align: center;
+     }
+
+     .icon-head {
+        width: 13%;
+     }
 }
+
+@media (min-width:750px) and (max-width:999px) {
+    .icon-head {
+        width: 9%;
+     }
+}
+
+@media screen and (max-width:450px )  {
+    .icon-head {
+        width: 30%;
+     }
+}
+
