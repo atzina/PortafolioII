@@ -28,3 +28,17 @@
 .div-dos-aboutme {
     width: 58%;
 }
+
+
+@media screen and (max-width: 914px ){
+   .aboutme{
+    flex-direction: column;
+   }
+   .div-uno-aboutme{
+    width:100%;
+   } 
+   .div-dos-aboutme{
+    width:100%;
+   }
+
+}
