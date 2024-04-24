@@ -62,7 +62,7 @@ function Experience() {
                     width="25"
                     height="25"
                     fill="currentColor"
-                    class="bi bi-graph-up"
+                    className="bi bi-graph-up"
                     viewBox="0 0 16 16"
                   >
                     <path
@@ -82,7 +82,7 @@ function Experience() {
           </div>
         </div>
       
-      {/*<div className="div-skills container-fluid">
+       <div className="div-skills container-fluid">
           <div className="skill">HTML</div>
           <div className="skill">CSS</div>
           <div className="skill">JavaScript</div>
@@ -91,23 +91,27 @@ function Experience() {
           <div className="skill">Bootstrap</div>
           <div className="skill">Figma</div>
           <div className="skill">WordPress</div>
-        <div className="skill textgrande">Trabajo con Personas</div>
+          
 
-         
-        </div>
-        <div className="div-skills container-fluid">
+      </div>
+      <div className="div-skills container-fluid">
+          <div className="skill textgrande">Trabajo con Personas</div>
           <div className="skill">Python</div>
-          <div className="skill">Jupiter</div>
-          <div className="skill">Pandas</div>
-          <div className="skill">Nunpy</div>
-          <div className="skill">Power Bi</div>
+          <div className="skill">Diseño Web</div>
+          <div className="skill">UX-UI</div>
           <div className="skill">Investigación</div>
           <div className="skill textgrande">Documentación</div>
           <div className="skill textgrande">Pensamiento Crítico</div>
           <div className="skill">Docencia</div>
-        
-       
-        </div>*/}
+      </div>
+          <div className="div-skills container-fluid">
+            
+            {/*<div className="skill">Jupiter</div>*/}
+            {/*<div className="skill">Pandas</div>*/}
+            {/*<div className="skill">Nunpy</div>*/}
+            {/*<div className="skill">Power Bi</div>*/}
+           
+          </div>
       </div>
     </>
   );

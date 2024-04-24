@@ -59,3 +59,13 @@
   font-size: 12px;
   padding: 13px;
 }
+
+/*laptop*/
+@media (min-width: 769px )and (max-width : 1000px) {
+  .skill{
+    width: 90px;
+    height: 90px;
+    font-size: 11px;
+  }
+  
+}

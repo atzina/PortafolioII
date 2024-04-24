@@ -49,8 +49,8 @@ function Work() {
 
         </div>
         <div className="projects">
-          <div class="container text-center">
-            <div class="row mostrar">
+          <div className="container text-center">
+            <div className="row mostrar">
 
               {filteredProjects.map((project, index)=> (
                 <div key={index} className='col-sm-1 col-md-4 col-lg-4'>
