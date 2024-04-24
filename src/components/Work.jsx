@@ -39,17 +39,18 @@ function Work() {
       <div className="work">
         <div className='title-work'><h1>Mi Trabajo</h1></div>
         <div className='filter-buttons container-fluid'>
+          <div className='row but-on'>
           
-            <button onClick={() => hadleCategoryChange('all')}>Mostrar Todo</button>
-            <button onClick={() => hadleCategoryChange('wordpress')}>WordPress</button>
-            <button onClick={()=> hadleCategoryChange('react')}>React</button>
-            <button onClick={()=> hadleCategoryChange('power')}>PowerBi</button>
-            <button onClick={()=> hadleCategoryChange('nodejs')}>NodeJs</button>
-         
+            <button className='col-sm-1 col-md-2 col-lg-2' onClick={() => hadleCategoryChange('all')}>Mostrar Todo</button>
+            <button className='col-sm-1 col-md-2 col-lg-2' onClick={() => hadleCategoryChange('wordpress')}>WordPress</button>
+            <button className='col-sm-1 col-md-2 col-lg-2'onClick={()=> hadleCategoryChange('react')}>React</button>
+            <button className='col-sm-1 col-md-2 col-lg-2'onClick={()=> hadleCategoryChange('power')}>PowerBi</button>
+            <button className= 'col-sm-1 col-md-2 col-lg-2'onClick={()=> hadleCategoryChange('nodejs')}>NodeJs</button>
+          </div>
 
         </div>
         <div className="projects">
-          <div className="container text-center">
+          <div className="container-fluid text-center">
             <div className="row mostrar">
 
               {filteredProjects.map((project, index)=> (
