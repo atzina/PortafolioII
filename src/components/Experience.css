@@ -60,8 +60,12 @@
   padding: 13px;
 }
 
+.div-two-skills{
+  justify-content: center;
+}
+
 /*laptop*/
-@media (min-width: 769px )and (max-width : 1000px) {
+@media (min-width: 320px )and (max-width : 1000px) {
   .skill{
     width: 90px;
     height: 90px;

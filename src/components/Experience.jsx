@@ -82,28 +82,30 @@ function Experience() {
           </div>
         </div>
       
-       <div className="div-skills container-fluid">
+       <div className="div-skills container-fluid ">
+        <div className="row div-two-skills">
+
+        
           <div className="skill">HTML</div>
           <div className="skill">CSS</div>
           <div className="skill">JavaScript</div>
           <div className="skill">React</div>
           <div className="skill">SQL</div>
           <div className="skill">Bootstrap</div>
-          <div className="skill">Figma</div>
-          <div className="skill">WordPress</div>
-          
+          <div className="skill ">Figma</div>
+          <div className="skill ">WordPress</div>
+          <div className="skill textgrande ">Trabajo con Personas</div>
+          <div className="skill ">Python</div>
+          <div className="skill ">Diseño Web</div>
+          <div className="skill ">UX-UI</div>
+          <div className="skill c">Investigación</div>
+          <div className="skill textgrande ">Documentación</div>
+          <div className="skill textgrande ">Pensamiento Crítico</div>
+          <div className="skill ">Docencia</div>
+        </div>
 
       </div>
-      <div className="div-skills container-fluid">
-          <div className="skill textgrande">Trabajo con Personas</div>
-          <div className="skill">Python</div>
-          <div className="skill">Diseño Web</div>
-          <div className="skill">UX-UI</div>
-          <div className="skill">Investigación</div>
-          <div className="skill textgrande">Documentación</div>
-          <div className="skill textgrande">Pensamiento Crítico</div>
-          <div className="skill">Docencia</div>
-      </div>
+     
           <div className="div-skills container-fluid">
             
             {/*<div className="skill">Jupiter</div>*/}
