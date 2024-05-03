@@ -5,7 +5,7 @@ function Contact () {
     return (
         <>
             
-            <div className="aboutme">
+            <div className="aboutme" id= "contact">
               <div className="div-uno-aboutme">
                 <h1>Contacto</h1>
                 <p>

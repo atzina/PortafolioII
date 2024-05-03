@@ -36,7 +36,7 @@ function Work() {
 
   return (
     <>
-      <div className="work">
+      <div className="work" id="work">
         <div className='title-work'><h1>Mi Trabajo</h1></div>
         <div className='filter-buttons container-fluid'>
           <div className='row but-on'>

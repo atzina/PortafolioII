@@ -8,7 +8,7 @@ function Aboutme() {
   return (
     <>
     
-            <div className="aboutme">
+            <div className="aboutme" id="aboutme">
               <div className="div-uno-aboutme">
                 <h1>Sobre mí</h1>
                 <p>
